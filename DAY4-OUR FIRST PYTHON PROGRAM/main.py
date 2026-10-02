@@ -1,0 +1,8 @@
+print("hello world!")
+print(5)
+print("1234")
+print("Bye.....")
+print(17+10)
+print(17-10)
+print(17*10)
+print(17/10)

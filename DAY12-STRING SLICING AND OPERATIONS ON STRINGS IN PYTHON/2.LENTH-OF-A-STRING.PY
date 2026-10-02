@@ -1,0 +1,16 @@
+# lENGTH OF A STRING:-
+
+# PYTHON MEIN LEN() FUNCTION STRING KE CHARACTERS KI NUMBER BATATA HAI
+
+# DEFINITION: THE LEN() FUNCTION RETURNS THE NUMBER OF CHARACTERSBIN A STRING.
+
+# 1.EXAMPLE:-
+
+NAME = "kritika"
+print(len(NAME)) #output become 7.
+
+# 2.EXAMPLE:-
+
+TEXT = "HELLO WORLD"
+print(len(TEXT)) #output become 11, because space bhi count hua hai.
+
